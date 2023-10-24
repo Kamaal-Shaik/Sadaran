@@ -190,6 +190,7 @@ INSTALLED_APPS = [
     'djangocms_style',
     'djangocms_googlemap',
     'djangocms_video',
+    'djangocms_column',
     'sadaran',
     'polls_cms_integration',
     'polls',
