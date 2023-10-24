@@ -1,3 +1,5 @@
+It is a basic working django-cms template. Followed the quick start guide of django-cms documentation. Pull the repo and use. Struggled many days to fix the plugin conflicts. Finally consolidated working plugin versions. Its very useful to quick start the django-cms sites
+
 # Steps to use the repo
 
 1. Clone the repo
