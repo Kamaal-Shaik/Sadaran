@@ -1,3 +1,5 @@
+django-filer==1.7.0
+Django==2.2
 aldryn-apphooks-config==0.7.0
 aldryn-boilerplates==0.8.0
 aldryn-categories==1.2.0
@@ -11,14 +13,12 @@ Babel==2.13.0
 backport-collections==0.1
 cssselect2==0.7.0
 dj-database-url==0.5.0
-Django==2.2
 django-appconf==1.0.5
 django-appdata==0.4.0
 django-background-tasks==1.2.5
 django-classy-tags==3.0.0
 django-cms==3.9.0
 django-compat==1.0.15
-django-filer==1.6.0
 django-formtools==2.1
 django-js-asset==2.0.0
 django-messages==0.6.0
@@ -34,7 +34,7 @@ django-treebeard==4.3.1
 django-utils-six==2.0
 djangocms-admin-style==2.0.2
 djangocms-attributes-field==3.0.0
-djangocms-bootstrap4==2.0.0
+djangocms-bootstrap4==1.6.0
 djangocms-file==3.0.1
 djangocms-googlemap==2.1.1
 djangocms-icon==2.0.0
